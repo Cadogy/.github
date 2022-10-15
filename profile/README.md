@@ -5,5 +5,5 @@ Interested in some of our work? Check our repository content to see what we've b
 
 ## Team Members
 
-<a href="https://www.linkedin.com/in/knappcharles/"><img align="left" src="ck-bubble.png" title="Charles Knapp's Linkedin" height=64></a>
-<a href="https://www.linkedin.com/in/dylansafra/"><img align="left" src="ds-bubble.png" title="Dylan Safra's Linkedin" height=64></a>
+<a href="https://github.com/charlesknapp"><img align="left" src="ck-bubble.png" title="Charles Knapp's GitHub" height=64></a>
+<a href="https://github.com/interborn"><img align="left" src="ds-bubble.png" title="Dylan Safra's GitHub" height=64></a>
