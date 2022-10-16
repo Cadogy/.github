@@ -1,6 +1,5 @@
 ![Welcome To My Page](https://github.com/Cadogy/.github/blob/main/profile/cad-banner.gif)
-# The GitHub of Cadogy
-
+#
 Thanks for checking out our GitHub profile! Our team members create extraordinary things.
 Interested in some of our work? Check our repository content to see what we've built!
 
