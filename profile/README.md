@@ -6,5 +6,6 @@ We love talking tech! Reach out to us for project inquiries and other developmen
 
 ## Team Members
 
-<a href="https://github.com/charlesknapp"><img align="left" src="https://i.ibb.co/56RtbNJ/ck-bubble.png" title="Charles Knapp's GitHub" height=64></a>
-<a href="https://github.com/interborn"><img align="left" src="https://i.ibb.co/VCQRMPV/ds-bubble.png" title="Dylan Safra's GitHub" height=64></a>
+<a href="https://github.com/charlesknapp"><img align="left" src="https://github.com/charlesknapp.png" title="Charles Knapp's GitHub" height=64></a>
+<a href="https://github.com/interborn"><img align="left" src="https://github.com/interborn.png" title="Dylan Safra's GitHub" height=64></a>
+<a href="https://github.com/allizine"><img align="left" src="https://github.com/allizine.png" title="Alex Barthel's GitHub" height=64></a>
