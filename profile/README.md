@@ -1,4 +1,4 @@
-![Cadogy's GitHub](https://github.com/Cadogy/.github/blob/main/profile/cad-header.gif)
+![Cadogy's GitHub](https://github.com/Cadogy/.github/blob/main/profile/cadogy_github_banner.jpg)
 ##
 We're a small but mighty team that loves solving real problems with clean code, smart design, and secure, future-proof infrastructure. From fullstack builds to backend wizardry, we're always learning, iterating, and shipping with a purpose.
 
