@@ -1,8 +1,8 @@
-![Welcome To My Page](https://github.com/Cadogy/.github/blob/main/profile/cad-header.gif)
+![Cadogy's GitHub](https://github.com/Cadogy/.github/blob/main/profile/cad-header.gif)
 ##
-Thanks for checking out our GitHub profile! Our members have experience with frontend and backend development, DevOps environments and frameworks, interativity libraries, and more. Interested in some of our work? Check our repository content to see what we've built!
-<br><br>
-We love talking tech! Reach out to us for project inquiries and other developmental discussions.
+We're a small but mighty team that loves solving real problems with clean code, smart design, and secure, future-proof infrastructure. From fullstack builds to backend wizardry, we're always learning, iterating, and shipping with a purpose.
+
+Tech moves fast, but we move thoughtfully. Let’s build something.
 
 ## Team Members
 
