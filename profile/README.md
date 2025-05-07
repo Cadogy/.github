@@ -3,6 +3,7 @@
 We're a small but mighty team that loves solving real problems with clean code, smart design, and secure, future-proof infrastructure. From fullstack builds to backend wizardry, we're always learning, iterating, and shipping with a purpose.
 
 Tech moves fast, but we move thoughtfully. Let’s build something.
+
 Visit https://www.cadogy.com/ for more information.
 
 ## Team Members
